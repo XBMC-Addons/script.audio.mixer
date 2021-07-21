@@ -17,6 +17,14 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Weblate 4.6.1\n"
 
+msgctxt "Addon Summary"
+msgid "Kodi Audio Mixer"
+msgstr ""
+
+msgctxt "Addon Description"
+msgid "Kodi Audio Mixer"
+msgstr ""
+
 msgctxt "#30001"
 msgid "Audio Mixer"
 msgstr ""
