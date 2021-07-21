@@ -6,12 +6,12 @@
 	<extension point="xbmc.python.script" library="default.py"/>
 	<extension point="xbmc.addon.metadata">
 		<platform>osx linux</platform>
-		<summary lang="en_GB">Kodi Audio Mixer</summary>
-		<description lang="en_GB">Kodi Audio Mixer</description>
 		<license>GPL-2.0-only</license>
 		<source>https://github.com/XBMC-Addons/script.audio.mixer</source>
 		<assets>
 			<icon>icon.png</icon>
 		</assets>
+		<summary lang="en_GB">Kodi Audio Mixer</summary>
+		<description lang="en_GB">Kodi Audio Mixer</description>
 	</extension>
 </addon>
