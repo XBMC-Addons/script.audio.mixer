@@ -14,11 +14,13 @@
 		<summary lang="da_DK">Kodi lydmixer</summary>
 		<summary lang="de_DE">Kodi Audio-Mixer</summary>
 		<summary lang="en_GB">Kodi Audio Mixer</summary>
+		<summary lang="ko_KR">Kodi 오디오 믹서</summary>
 		<summary lang="pl_PL">Mikser audio Kodi</summary>
 		<summary lang="ru_RU">Звуковой микшер Kodi</summary>
 		<description lang="da_DK">Kodi lydmixer</description>
 		<description lang="de_DE">Kodi Audio-Mixer</description>
 		<description lang="en_GB">Kodi Audio Mixer</description>
+		<description lang="ko_KR">Kodi 오디오 믹서</description>
 		<description lang="pl_PL">Mikser audio Kodi</description>
 		<description lang="ru_RU">Звуковой микшер Kodi</description>
 	</extension>
