@@ -12,8 +12,9 @@
 			<icon>icon.png</icon>
 		</assets>
 		<summary lang="da_DK">Kodi lydmixer</summary>
-		<summary lang="de_DE">Kodi Audio-Mixer</summary>
+		<summary lang="de_DE">Kodi Audiomixer</summary>
 		<summary lang="en_GB">Kodi Audio Mixer</summary>
+		<summary lang="es_ES">Mezclador de audio de Kodi</summary>
 		<summary lang="et_EE">Kodi helimikser</summary>
 		<summary lang="fi_FI">Äänimikseri Kodille</summary>
 		<summary lang="fr_FR">Mélangeur audio Kodi</summary>
@@ -26,6 +27,7 @@
 		<description lang="da_DK">Kodi lydmixer</description>
 		<description lang="de_DE">Kodi Audio-Mixer</description>
 		<description lang="en_GB">Kodi Audio Mixer</description>
+		<description lang="es_ES">Mezclador de audio de Kodi</description>
 		<description lang="et_EE">Kodi helimikser</description>
 		<description lang="fi_FI">Äänimikseri Kodille</description>
 		<description lang="fr_FR">Mélangeur audio Kodi</description>
